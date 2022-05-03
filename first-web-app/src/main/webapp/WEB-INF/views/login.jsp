@@ -7,5 +7,5 @@
 <meta charset="UTF-8">
 <title>Yahoo!!!!!!!! From JSP</title>
 </head>
-<body>My first JSP ${name}</body>
+<body>My name is ${name} and password is ${password}</body>
 </html>
