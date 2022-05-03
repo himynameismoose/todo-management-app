@@ -7,5 +7,9 @@
 <meta charset="UTF-8">
 <title>Yahoo!!!!!!!! From JSP</title>
 </head>
-<body>My name is ${name} and password is ${password}</body>
+<body>
+<form action="login.do" method="post">
+Enter your name <input type="text" name="name"> <input type="submit" value="Login">
+</form>
+</body>
 </html>
